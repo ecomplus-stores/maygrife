@@ -1,18 +1,18 @@
 {
-  "shipping": {
+  "exchange": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "NÃO GOSTOU? A PRIMEIRA TROCA É GRATUITA "
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
-  },
-  "exchange": {
-    "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "PARCELE EM ATÉ 10X SEM JUROS    "
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "DIFERENTES PROMOÇÕES AO LONGO DO ANO!  "
+  },
+  "shipping": {
+    "show": true,
+    "text": "ENTREGAMOS PARA TODO O BRASIL "
   }
 }
