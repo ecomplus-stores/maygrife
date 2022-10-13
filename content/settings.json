@@ -1,6 +1,5 @@
 {
   "domain": "maygrife.com.br",
-  "repository": "ecomplus-stores/maygrife",
   "currency_symbol": "R$",
   "primary_color": "#dc0606",
   "theme": {
@@ -8,6 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/maygrife",
   "logo": "/img/uploads/log-3.jpg",
   "name": "MAY GRIFE",
   "short_name": "maygrife",
@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/banner2.webp",
+  "favicon": "/img/uploads/3-banner-.jpg",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#ea0a2a",
   "icon": "/img/uploads/banner-may.webp",
   "store_id": 30736,
   "description": "A May Grife saúde e beleza. Loja online de vendas no varejo, oferecendo aos seus clientes cosméticos e perfumes nacionais e importados.",
-  "large_icon": "/img/uploads/rect8589.png"
+  "large_icon": "/img/uploads/2-banner-promocao-.jpg"
 }
