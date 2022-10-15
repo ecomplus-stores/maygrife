@@ -11,8 +11,8 @@
           "img": "/img/uploads/banner-may.webp",
           "link": "/headset",
           "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
+          "start": "2022-10-15T00:44:44.235Z",
+          "end": "2022-11-01T00:44:00.786Z",
           "mobile_img": "/img/uploads/banner-may.webp"
         },
         {
@@ -31,6 +31,11 @@
     {
       "type": "dynamic-showcase",
       "load_more": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     },
     {
       "type": "banner-slider",
