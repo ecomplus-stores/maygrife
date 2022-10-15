@@ -41,6 +41,11 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
