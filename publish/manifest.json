@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c06aa1ddcde070ae7743038cba05d110.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.ca9f016b2cd2c2541db075245d5c5a8f.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.0ba8e527609bbc7effdb14ecec9dc8b9.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_128x128.0ba8e527609bbc7effdb14ecec9dc8b9.webp",
+      "sizes": "128x128",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_96x96.0ba8e527609bbc7effdb14ecec9dc8b9.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    }
+  ],
+  "name": "MAY GRIFE",
+  "short_name": "maygrife",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A May Grife cosméticos. Loja de vendas no varejo, oferecendo aos seus clientes cosméticos e perfumes nacionais e importados. ",
+  "background_color": "#ffffff",
+  "theme_color": "#dc0606"
+}
