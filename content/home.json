@@ -1,6 +1,6 @@
 {
-  "meta_title": "Acessórios Femininos Corpetes e Corsets",
-  "meta_description": "Acessórios Femininos Corpetes e Corsets",
+  "meta_title": "",
+  "meta_description": "",
   "sections": [
     {
       "type": "banner-slider",
@@ -26,7 +26,7 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "dynamic-showcase",
