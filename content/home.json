@@ -46,6 +46,12 @@
       "type": "brands-carousel",
       "limit": 48,
       "offset": 0
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
