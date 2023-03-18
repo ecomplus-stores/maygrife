@@ -1,6 +1,6 @@
 {
-  "meta_title": "Acessórios",
-  "meta_description": "Acessórios Femininos",
+  "meta_title": "Perfumes ",
+  "meta_description": "Perfumes Masculinos e Femininos ",
   "sections": [
     {
       "type": "banner-slider",
@@ -30,7 +30,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true
+      "load_more": true,
+      "sort": "views"
     },
     {
       "type": "banner-slider",
