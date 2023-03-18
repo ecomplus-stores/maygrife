@@ -56,10 +56,15 @@
       "autoplay": 1000
     },
     {
-      "type": "collection-shelf",
+      "autoplay": 1000,
+      "page": 1,
+      "title": "Acessórios Femininos ",
       "shuffle": false,
+      "type": "collection-shelf",
+      "link": "https://maygrife.com.br/acessorios",
       "limit": 12,
-      "page": 1
+      "collection_id": "6414e0f24bd2e929c1a30004:categories:Acessórios:/acessorios",
+      "sort": "lowest_price"
     }
   ]
 }
