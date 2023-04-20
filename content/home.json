@@ -73,6 +73,7 @@
       "page": 1,
       "title": "Perfumes Femininos",
       "shuffle": false,
+      "headless": true,
       "type": "collection-shelf",
       "link": "https://maygrife.com.br/perfumes-femininos",
       "limit": 23,
