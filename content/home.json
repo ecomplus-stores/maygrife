@@ -8,14 +8,6 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner-3-3.jpg",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2023-04-30T23:12:20.471Z",
-          "end": "2023-04-30T23:12:23.906Z",
-          "mobile_img": "/img/uploads/banner-3-3.jpg"
-        },
-        {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-4.png",
