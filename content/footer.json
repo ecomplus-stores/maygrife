@@ -35,16 +35,16 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": false,
+    "bradesco": true,
     "santander": false,
     "mastercard": true,
-    "paypal": false,
+    "paypal": true,
     "citibank": false,
     "diners": true,
-    "mais": false,
+    "mais": true,
     "pix": true,
     "amex": true,
-    "itau": false
+    "itau": true
   },
   "credits": "©2023 Todos os direitos reservados May Grife"
 }
