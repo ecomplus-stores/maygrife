@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#000000",
   "repository": "ecomplus-stores/maygrife",
   "logo": "/img/uploads/logo-4.png",
   "name": "MAY GRIFE",
@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/banner-1-1.jpg",
+  "favicon": "/img/uploads/bamnner-oui.jpg",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#ea0a2a",
-  "icon": "/img/uploads/banner-3-3.jpg",
+  "icon": "/img/uploads/banner-1.jpg",
   "store_id": 30736,
   "description": "May Grife l Saúde e Beleza ",
-  "large_icon": "/img/uploads/banner-4.png"
+  "large_icon": "/img/uploads/banner-1.jpg"
 }
