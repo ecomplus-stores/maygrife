@@ -22,8 +22,9 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "src": "/img/uploads/banne-mercado.jpg",
+      "alt": "Secure connection",
+      "link": "Pagamento"
     }
   ],
   "payment_methods": {
