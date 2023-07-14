@@ -25,9 +25,6 @@
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Pagamento",
       "link": ""
-    },
-    {
-      "src": "<a href=\"https://www.confiavel.com.br\" target=\"_blank\" title=\"Este site é Confiável?\" class=\"selo-confiavel\"><img src=\"https://confiavel.com.br/logo.png\" width=\"150\"></a> <script>document.querySelector('.selo-confiavel').href = `https://www.confiavel.com.br/${window.location.hostname}/`;</script>"
     }
   ],
   "payment_methods": {
