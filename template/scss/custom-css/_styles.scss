@@ -65,3 +65,44 @@
       }
       height: unset;     
 }
+.cookieconsent {
+  position: fixed;
+  bottom: 0;
+  padding: 1rem .5rem;
+  background-color: #fff;
+  box-shadow: 0 0 40px 0 rgba(0,0,0,.68);
+  z-index: 999;
+  width:100%;
+  margin: 0 auto;
+
+  .text {
+    color: #4D4D4D;
+    font-size: 14px;
+    font-weight: 700;
+  }
+
+  button {
+    &:hover {
+      color:#fff;
+      background: var(--secondary);
+    }
+    color: #fff;
+    font-weight: 700;
+    display: block;
+    white-space: nowrap;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    font-size: 12px;
+    border: 1px solid #30753d;
+    background: #30753d;
+    border-radius: 0;
+    outline: none;
+    transition:all .2s
+  }
+
+  .row{
+    display:flex;
+    align-items:center;
+  }
+
+}

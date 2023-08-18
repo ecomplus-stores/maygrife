@@ -21,6 +21,32 @@
     <%- await include('@/layout/header') %>
     <%- await include('@/layout/sections') %>
     <%- await include('@/layout/footer') %>
+    <div id="cookieconsent" class="cookieconsent">
+      <div class="container"> 
+        <div class="row align-items-center justify-content-center"> 
+          <div class="col-12 col-md text-center"> 
+            <div class="text">
+              Utilizamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços e torna-los personalizamos para você. Ao utilizar nossos serviços, você concorda com a nossa <a target="_blank" href="/pages/privacidade">política de privacidade</a>
+            </div> 
+          </div> 
+          <div class="col-12 col-md-auto mt-3 mt-md-0 text-center"> 
+            <button id="cookieconsent-btn" class="btn product-buy-button"> 
+              Continuar e fechar
+            </button> 
+          </div> 
+        </div> 
+      </div> 
+    </div>
+    <script type="text/javascript"> 
+        const cookieconsent = document.getElementById('cookieconsent');
+        document.getElementById('cookieconsent-btn').onclick = function() {
+            localStorage.setItem('cookieconsent', true);
+            cookieconsent.classList.add('d-none');
+        };
+        if (localStorage.getItem('cookieconsent')) {
+          cookieconsent.classList.add('d-none');
+        }
+    </script>
   </main>
 
   <%- await include('@/json') %>
