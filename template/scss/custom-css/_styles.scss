@@ -1,1 +1,67 @@
 // Add your custom CSS here.
+.reviews {
+    .depoimentos.banner-wrapper .depoimento-box {
+        margin: 0px auto;
+      }
+      .depoimento-box {
+        border: 1px solid #EBE6E3;
+        border-radius: 8px;
+        background: #FFFFFF;
+        -webkit-box-shadow: 0px 5px 9px -5px rgba(148,148,148,0.55);
+        -moz-box-shadow: 0px 5px 9px -5px rgba(148,148,148,0.55);
+        box-shadow: 0px 5px 9px -5px rgba(148,148,148,0.55);
+        text-align: center;
+        padding: 20px;
+      }
+      .title-client-avk {
+        text-align: center;
+      }
+      .title-client-avk img {
+        border-radius: 200px;
+        max-height: 70px;
+        margin: 0 auto;
+        margin-bottom: 0px;
+        border: 1px solid #C9AB72;
+      }
+      .title-client-avk p {
+        color: #434343 !important;
+        font-size: 18px;
+        font-weight: 700;
+        width: 100%;
+        margin-top: 10px !important;
+        margin-bottom: 5px;
+        display: block;
+      }
+      .title-client-avk small {
+        font-size: 16px;
+      }
+      
+      @media (min-width: 1200px) {
+        .depoimento-box {
+          text-align: left;
+        }
+        .title-client-avk {
+          text-align: left;
+          position: relative;
+        }
+        .title-client-avk img {
+          display: block;
+          text-align: center;
+          margin-bottom: 0px;
+        }
+        .title-client-avk p {
+          font-size: 18px;
+          font-weight: 700;
+        }
+      }
+      .products-carousel__title::before {
+        height: 0 !important;
+      }
+      small {
+        color: var(--secondary);
+      }
+      .depoimento-box {
+        min-height: 300px;
+      }
+      height: unset;     
+}
