@@ -75,10 +75,10 @@
     {
       "autoplay": 1000,
       "page": 1,
-      "title": "Acessórios de Modas",
+      "title": "Maquiagens ",
       "shuffle": false,
       "type": "collection-shelf",
-      "link": "https://maygrife.com.br/acessorios",
+      "link": "https://maygrife.com.br/maquiagem",
       "limit": 12,
       "collection_id": "6414e0f24bd2e929c1a30004:categories:Acessórios:/acessorios",
       "sort": "lowest_price"
