@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Parcele suas compras em até 6 vezes sem juros no Cartão de Credito!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "color": "#e93715"
   },
   "contacts_stripe": {
     "pages": [
