@@ -71,28 +71,6 @@
       "limit": 23,
       "collection_id": "6356db2b73321213f8baa1a9:categories:Perfumes Femininos:/perfumes-femininos",
       "sort": "views"
-    },
-    {
-      "autoplay": 1000,
-      "page": 1,
-      "title": "Maquiagens ",
-      "shuffle": false,
-      "type": "collection-shelf",
-      "link": "https://maygrife.com.br/maquiagem",
-      "limit": 12,
-      "collection_id": "6414e0f24bd2e929c1a30004:categories:Acessórios:/acessorios",
-      "sort": "lowest_price"
-    },
-    {
-      "autoplay": 1000,
-      "page": 1,
-      "title": "Fitness e Saúde",
-      "shuffle": false,
-      "type": "collection-shelf",
-      "link": "https://maygrife.com.br/fitness",
-      "limit": 12,
-      "collection_id": "645d1cd34bd2e929c1f81cd4:categories:FITNESS:/fitness",
-      "sort": "offers"
     }
   ]
 }
