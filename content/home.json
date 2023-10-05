@@ -44,17 +44,6 @@
       "sort": "views"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": []
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false
-    },
-    {
       "type": "brands-carousel",
       "limit": 48,
       "offset": 0,
