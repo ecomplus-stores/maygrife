@@ -125,6 +125,15 @@
         "645d1cd34bd2e929c1f81cd4:categories:Saúde e Beleza:/fitness"
       ],
       "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ccaptura-de-tela-2023-02-08-234701.png",
+          "mobile_img": "/img/uploads/ccaptura-de-tela-2023-02-08-234701.png"
+        }
+      ]
     }
   ]
 }
