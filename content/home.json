@@ -44,7 +44,7 @@
       "limit": 48,
       "offset": 0,
       "sort": "name",
-      "autoplay": 0
+      "autoplay": 1000
     },
     {
       "type": "shelfs-nav",
