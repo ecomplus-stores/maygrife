@@ -118,8 +118,8 @@
     },
     {
       "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 8,
+      "shuffle": true,
+      "limit": 12,
       "page": 2,
       "collection_ids": [
         "645d1cd34bd2e929c1f81cd4:categories:Saúde e Beleza:/fitness"
