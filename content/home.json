@@ -117,6 +117,17 @@
           "mobile_img": "/img/uploads/ccaptura-de-tela-2023-02-08-234701.png"
         }
       ]
+    },
+    {
+      "autoplay": 2000,
+      "page": 1,
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://maygrife.com.br/perfumes-masculinos",
+      "limit": 12,
+      "collection_id": "64fa705b2cd6b65959428d4a:categories:Perfumes Masculinos:/perfumes-masculinos",
+      "sort": "sales"
     }
   ]
 }
