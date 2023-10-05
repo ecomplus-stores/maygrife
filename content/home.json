@@ -71,7 +71,7 @@
     {
       "type": "shelfs-nav",
       "shuffle": false,
-      "limit": 8,
+      "limit": 12,
       "page": 1,
       "collection_ids": [
         "64fa75852cd6b659594290ae:categories:Perfumes Femininos:/perfumes-femininos"
