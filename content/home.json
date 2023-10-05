@@ -110,12 +110,11 @@
       "limit": 8,
       "page": 1,
       "collection_ids": [
-        "634973c373321213f8ab85c2:categories:Corpo e Banho:/pele",
-        "645d1cd34bd2e929c1f81cd4:categories:Saúde e Beleza:/fitness"
+        "634973c373321213f8ab85c2:categories:Corpo e Banho:/pele"
       ],
       "sort": "offers",
       "shelfs_title": "",
-      "autoplay": 2000
+      "autoplay": 0
     }
   ]
 }
