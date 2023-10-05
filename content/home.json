@@ -108,7 +108,7 @@
       ],
       "sort": "views",
       "shelfs_title": "Perfumes Masculinos",
-      "autoplay": 0
+      "autoplay": 1000
     }
   ]
 }
