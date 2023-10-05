@@ -47,14 +47,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/ccaptura-de-tela-2023-02-08-234701.png",
-          "img": "/img/uploads/ccaptura-de-tela-2023-02-08-234701.png"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "banner-slider",
