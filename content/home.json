@@ -106,7 +106,7 @@
     },
     {
       "type": "shelfs-nav",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_ids": [
