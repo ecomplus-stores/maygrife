@@ -51,24 +51,6 @@
       "autoplay": 0
     },
     {
-      "autoplay": 0,
-      "page": 1,
-      "title": "Perfumes Femininos",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://maygrife.com.br/perfumes-femininos",
-      "limit": 23,
-      "collection_id": "64fa75852cd6b659594290ae:categories:Perfumes Femininos:/perfumes-femininos",
-      "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
       "type": "shelfs-nav",
       "shuffle": true,
       "limit": 12,
