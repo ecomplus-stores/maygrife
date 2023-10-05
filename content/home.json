@@ -128,6 +128,16 @@
       "limit": 12,
       "collection_id": "64fa705b2cd6b65959428d4a:categories:Perfumes Masculinos:/perfumes-masculinos",
       "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64fa75852cd6b659594290ae:categories:Perfumes Femininos:/perfumes-femininos",
+      "sort": "views",
+      "link": "https://maygrife.com.br/perfumes-femininos",
+      "autoplay": 1000
     }
   ]
 }
