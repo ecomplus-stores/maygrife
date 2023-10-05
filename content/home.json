@@ -107,7 +107,7 @@
     {
       "type": "shelfs-nav",
       "shuffle": false,
-      "limit": 8,
+      "limit": 12,
       "page": 1,
       "collection_ids": [
         "634973c373321213f8ab85c2:categories:Corpo e Banho:/pele"
