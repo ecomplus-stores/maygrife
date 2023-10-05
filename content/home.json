@@ -82,8 +82,8 @@
     },
     {
       "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 11,
+      "shuffle": true,
+      "limit": 12,
       "page": 1,
       "collection_ids": [
         "64fa705b2cd6b65959428d4a:categories:Perfumes Masculinos:/perfumes-masculinos"
