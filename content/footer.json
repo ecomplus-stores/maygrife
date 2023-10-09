@@ -25,6 +25,9 @@
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Pagamento",
       "link": ""
+    },
+    {
+      "src": "/img/uploads/1-pg-mercado-pago.jpg"
     }
   ],
   "payment_methods": {
