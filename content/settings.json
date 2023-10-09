@@ -1,7 +1,7 @@
 {
   "domain": "maygrife.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#f90808",
+  "primary_color": "#d80606",
   "theme": {
     "bootswatch": "_",
     "custom": "ecom-beauty"
