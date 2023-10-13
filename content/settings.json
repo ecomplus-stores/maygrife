@@ -1,7 +1,7 @@
 {
   "domain": "maygrife.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#d80606",
+  "primary_color": "#121111",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/bamnner-oui.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#130101",
+  "secondary_color": "#f60a0a",
   "icon": "/img/uploads/banner-g.jpg",
   "store_id": 30736,
   "description": "May Grife l Saúde e Beleza ",
