@@ -4,7 +4,7 @@
   "primary_color": "#d80606",
   "theme": {
     "bootswatch": "_",
-    "custom": "ecom-beauty"
+    "custom": "_"
   },
   "bg_color": "#f60505",
   "repository": "ecomplus-stores/maygrife",
