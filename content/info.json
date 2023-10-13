@@ -1,18 +1,18 @@
 {
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "NÃO GOSTOU? A PRIMEIRA TROCA É GRATUITA "
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "PARCELE SUAS COMPRAS EM ATÉ 12X VEZES  NO CARTÃO DE CREDITO SEM JUROS  "
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "DIFERENTES PROMOÇÕES AO LONGO DO ANO!  "
   },
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "ENTREGAMOS PARA TODO O BRASIL "
   }
 }
