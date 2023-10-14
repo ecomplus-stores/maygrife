@@ -1,10 +1,10 @@
 {
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "NÃO GOSTOU? A PRIMEIRA TROCA É GRATUITA "
   },
   "installments": {
-    "show": false,
+    "show": true,
     "text": ""
   },
   "promo": {
