@@ -85,14 +85,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/ccaptura-de-tela-2023-02-08-234701.png",
-          "mobile_img": "/img/uploads/ccaptura-de-tela-2023-02-08-234701.png"
-        }
-      ]
+      "slides": []
     },
     {
       "autoplay": 2000,
@@ -114,6 +107,12 @@
       "sort": "views",
       "link": "https://maygrife.com.br/perfumes-femininos",
       "autoplay": 1000
+    },
+    {
+      "type": "banners-grid"
+    },
+    {
+      "type": "banners-grid"
     }
   ]
 }
