@@ -82,12 +82,6 @@
       "autoplay": 1000
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": []
-    },
-    {
       "autoplay": 2000,
       "page": 1,
       "shuffle": true,
