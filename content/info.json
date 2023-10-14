@@ -1,11 +1,11 @@
 {
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "NÃO GOSTOU? A PRIMEIRA TROCA É GRATUITA "
   },
   "installments": {
-    "show": true,
-    "text": "PARCELE SUAS COMPRAS EM ATÉ 12X VEZES  NO CARTÃO DE CREDITO SEM JUROS  "
+    "show": false,
+    "text": ""
   },
   "promo": {
     "show": true,
