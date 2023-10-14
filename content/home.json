@@ -83,7 +83,7 @@
     },
     {
       "autoplay": 2000,
-      "page": 2,
+      "page": 1,
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
