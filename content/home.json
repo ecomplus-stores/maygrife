@@ -95,8 +95,8 @@
     {
       "autoplay": 1000,
       "page": 1,
-      "shuffle": false,
-      "headless": true,
+      "shuffle": true,
+      "headless": false,
       "type": "collection-shelf",
       "link": "https://maygrife.com.br/perfumes-femininos",
       "limit": 24,
