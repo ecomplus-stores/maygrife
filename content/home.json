@@ -86,7 +86,7 @@
       "page": 1,
       "title": "Perfumes Originais ",
       "shuffle": true,
-      "headless": false,
+      "headless": true,
       "type": "collection-shelf",
       "link": "https://maygrife.com.br/perfumes-masculinos",
       "limit": 20,
