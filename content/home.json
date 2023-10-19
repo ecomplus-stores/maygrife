@@ -96,6 +96,7 @@
     {
       "autoplay": 1000,
       "page": 1,
+      "title": "Perfumes Originais ",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
