@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.e5e63b48a07bae5eac3d5e15fba558a5.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.cc7e4ba318c3751813fa43b84f6e1692.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.7096175c91932f44626f0ab573508046.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.68db9d549bb45210ab82af94ae5f3ee6.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.9cc4add7c0e735d0aa87046caa7a787f.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "MAY GRIFE",
+  "short_name": "maygrife",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "May Grife l Saúde e Beleza ",
+  "background_color": "#f20808",
+  "theme_color": "#f50516"
+}
